@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<process.h>
 #include<stdlib.h>
-
+#iclude<conio.h>
 void factorial();
 void GCD();
 void fibonacci();
